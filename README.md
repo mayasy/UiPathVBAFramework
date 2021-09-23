@@ -1,0 +1,2 @@
+# UiPathVBAFramework
+UiPathから呼ばれることを想定したVBAのフレームワーク。
