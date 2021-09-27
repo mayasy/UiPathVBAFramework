@@ -4,9 +4,7 @@ Module1.bas は **標準モジュール** に対してインポートしない�
 
 # 関連リンク
 - **UiPathナレッジベース**
-VBA Macroの自動化対応時のエラーハンドリング（OnErrorGoto）
-https://www.uipath.com/ja/resources/knowledge-base/vba-macro-onerrorgoto
+  - [VBA Macroの自動化対応時のエラーハンドリング（OnErrorGoto）](https://www.uipath.com/ja/resources/knowledge-base/vba-macro-onerrorgoto)
 
 - **Qiita**
-UiPathからVBAコール時、返却値が返ってこないパターンまとめ
-https://qiita.com/mayasy_RPA/items/862bc6e26ff5964eed06
+  - [UiPathからVBAコール時、返却値が返ってこないパターンまとめ](https://qiita.com/mayasy_RPA/items/862bc6e26ff5964eed06)
